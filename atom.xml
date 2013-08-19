@@ -4,7 +4,11 @@
   <title><![CDATA[月の舞]]></title>
   <link href="https://github.com/jy03344894/jy03344894.github.com.git/atom.xml" rel="self"/>
   <link href="https://github.com/jy03344894/jy03344894.github.com.git/"/>
+<<<<<<< HEAD
   <updated>2013-08-16T16:34:27+08:00</updated>
+=======
+  <updated>2013-08-16T17:41:49+08:00</updated>
+>>>>>>> 8e4d80babf3103849a3dbc335b090c4ad2a0eed7
   <id>https://github.com/jy03344894/jy03344894.github.com.git/</id>
   <author>
     <name><![CDATA[月の舞狼]]></name>
@@ -13,4 +17,25 @@
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
+<<<<<<< HEAD
+=======
+  <entry>
+    <title type="html"><![CDATA[New Post]]></title>
+    <link href="https://github.com/jy03344894/jy03344894.github.com.git/blog/2013/08/16/new-post/"/>
+    <updated>2013-08-16T17:28:00+08:00</updated>
+    <id>https://github.com/jy03344894/jy03344894.github.com.git/blog/2013/08/16/new-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello world]]></title>
+    <link href="https://github.com/jy03344894/jy03344894.github.com.git/blog/2013/08/16/hello-world/"/>
+    <updated>2013-08-16T17:21:00+08:00</updated>
+    <id>https://github.com/jy03344894/jy03344894.github.com.git/blog/2013/08/16/hello-world</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+>>>>>>> 8e4d80babf3103849a3dbc335b090c4ad2a0eed7
 </feed>
