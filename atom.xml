@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[月の舞]]></title>
-  <link href="https://github.com/jy03344894/jy03344894.github.com.git/atom.xml" rel="self"/>
-  <link href="https://github.com/jy03344894/jy03344894.github.com.git/"/>
-  <updated>2013-08-16T17:41:49+08:00</updated>
-  <id>https://github.com/jy03344894/jy03344894.github.com.git/</id>
+  <title><![CDATA[-月の舞-]]></title>
+  <link href="http://jy03344894.github.io/atom.xml" rel="self"/>
+  <link href="http://jy03344894.github.io/"/>
+  <updated>2013-08-19T10:49:24+08:00</updated>
+  <id>http://jy03344894.github.io/</id>
   <author>
     <name><![CDATA[月の舞狼]]></name>
     
@@ -15,18 +15,18 @@
   
   <entry>
     <title type="html"><![CDATA[New Post]]></title>
-    <link href="https://github.com/jy03344894/jy03344894.github.com.git/blog/2013/08/16/new-post/"/>
+    <link href="http://jy03344894.github.io/blog/2013/08/16/new-post/"/>
     <updated>2013-08-16T17:28:00+08:00</updated>
-    <id>https://github.com/jy03344894/jy03344894.github.com.git/blog/2013/08/16/new-post</id>
+    <id>http://jy03344894.github.io/blog/2013/08/16/new-post</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello world]]></title>
-    <link href="https://github.com/jy03344894/jy03344894.github.com.git/blog/2013/08/16/hello-world/"/>
+    <link href="http://jy03344894.github.io/blog/2013/08/16/hello-world/"/>
     <updated>2013-08-16T17:21:00+08:00</updated>
-    <id>https://github.com/jy03344894/jy03344894.github.com.git/blog/2013/08/16/hello-world</id>
+    <id>http://jy03344894.github.io/blog/2013/08/16/hello-world</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

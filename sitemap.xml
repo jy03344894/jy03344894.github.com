@@ -1,27 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>
-            https://github.com/jy03344894/jy03344894.github.com.git/blog/2013/08/16/hello-world/
-        </loc>
+        <loc>http://jy03344894.github.io/blog/2013/08/16/hello-world/</loc>
         <lastmod>2013-08-16T17:21:44+08:00</lastmod>
     </url>
     <url>
-        <loc>
-            https://github.com/jy03344894/jy03344894.github.com.git/blog/2013/08/16/new-post/
-        </loc>
+        <loc>http://jy03344894.github.io/blog/2013/08/16/new-post/</loc>
         <lastmod>2013-08-16T17:28:06+08:00</lastmod>
     </url>
     <url>
-        <loc>https://github.com/jy03344894/jy03344894.github.com.git/blog/archives/</loc>
+        <loc>http://jy03344894.github.io/blog/archives/</loc>
         <lastmod>2013-08-16T17:28:06+08:00</lastmod>
     </url>
     <url>
-        <loc>https://github.com/jy03344894/jy03344894.github.com.git/</loc>
+        <loc>http://jy03344894.github.io/</loc>
         <lastmod>2013-08-16T17:28:06+08:00</lastmod>
     </url>
     <url>
-        <loc>https://github.com/jy03344894/jy03344894.github.com.git/robots.txt</loc>
+        <loc>http://jy03344894.github.io/robots.txt</loc>
         <lastmod>2013-08-16T16:21:03+08:00</lastmod>
     </url>
 </urlset>
